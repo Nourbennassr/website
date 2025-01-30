@@ -1,4 +1,4 @@
-/* eslint-disable @typescript-eslint/no-explicit-any */
+
 import { Product } from '@prisma/client';
 import ProductCard from './product-card';
 
